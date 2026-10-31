@@ -1,0 +1,8 @@
+{
+  "name": "bingo-oratorio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tablero de bingo horizontal con panel de moderador y proyección sincronizada.",
+  "scripts": { "start": "node server.mjs", "test": "node --test tests/server.test.mjs" },
+  "engines": { "node": ">=18" }
+}
